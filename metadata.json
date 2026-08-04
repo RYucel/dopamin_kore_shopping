@@ -1,0 +1,6 @@
+{
+  "name": "Dopamind - Hayali Alışveriş Simülatörü",
+  "description": "Sıfır harcama, maksimum dopamin! Kıyafet, aksesuar ve takı alışverişini, canlı kurye takibini ve indirim çarkını gerçekçi bir Trendyol deneyimiyle simüle eden platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
